@@ -59,11 +59,11 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "photo_2017-02-03_23-44-22.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "zamani@jobyaar.com"
+  email = "Zamani@jobyaar.com"
   address = "Tehran-Dadman Blvd-Fakhari Moghaddam St.-East 2nd Golbarg-No 6"
   office_hours = "Everyday 9:00 to 17:00 or email for appointment"
   phone = "939 407 00 67"
-  skype = "hatef.zamani"
+  skype = "Hatef.Zamani"
   telegram = "Hatefzamani"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -92,7 +92,7 @@ defaultContentLanguageInSubdir = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 1
   map_api_key = ""
   latitude = "35.747724"
   longitude = "51.470508"
