@@ -93,7 +93,7 @@ defaultContentLanguageInSubdir = false
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
   map = 1
-  map_api_key = ""
+  map_api_key = "AIzaSyBeVaWfoEqnM7wzeV3lchBiAs5fqcIu0rY"
   latitude = "35.747724"
   longitude = "51.470508"
   zoom = 15
