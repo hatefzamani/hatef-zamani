@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "hatef"
+title = "Hatef Zamani"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -47,24 +47,24 @@ defaultContentLanguageInSubdir = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "playfair"
+  font = "classic"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Hatef Zamani"
+  role = "Co-Founder and Chief Executive Manager"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "Jobyaar Company", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "تهران دادمان-خ فخاری"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
+  email = "zamani@jobyaar.com"
+  address = "Tehran-Dadman Blvd-Fakhari Moghaddam St.-East 2nd Golbarg-No 6"
+  office_hours = "Everyday 9:00 to 17:00 or email for appointment"
+  phone = "939 407 00 67"
+  skype = "hatef.zamani"
+  telegram = "@Hatefzamani"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
